@@ -21,4 +21,4 @@ app:
   basePath: "/api.*"
 
 client:
-  url: "https://sf-movies-frontend.herokuapp.com/"
+  url: "https://sf-movies-frontend.herokuapp.com"
