@@ -25,7 +25,12 @@ The best alternative for  OpenStreetMap's geo-coding API is Google Map's geo-cod
 
 - Due to the time constraint, I could not add security to the system.
 
+
+## Application Link
 NOTE: For API documentation, Swagger is implemented.  
+
+This application has been deployed in Heroku. Links to this application is:
+- [Swagger URL](https://sf-movies-backend.herokuapp.com/swagger-ui.html)
 
 ## Link to Personal Profile
 
